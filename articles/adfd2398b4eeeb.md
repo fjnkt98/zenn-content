@@ -10,7 +10,7 @@ AtCoder Beginner Contest 239 B - Integer Division を C++で解きます。
 
 ## 問題
 
-問題分を[AtCoder のページ](https://atcoder.jp/contests/abc239/tasks/abc239_b)より引用します。
+問題文を[AtCoder のページ](https://atcoder.jp/contests/abc239/tasks/abc239_b)より引用します。
 
 ### 問題文
 
