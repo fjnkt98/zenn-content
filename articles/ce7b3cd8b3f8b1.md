@@ -10,7 +10,7 @@ AtCoder Beginner Contest 267 B - Split?をPythonで解きます。
 
 ## 問題
 
-問題分を[AtCoderのページ](https://atcoder.jp/contests/abc267/tasks/abc267_b)より引用します。
+問題文を[AtCoderのページ](https://atcoder.jp/contests/abc267/tasks/abc267_b)より引用します。
 
 > ### 問題文
 >
