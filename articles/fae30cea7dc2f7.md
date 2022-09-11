@@ -2,7 +2,7 @@
 title: "ABC268 C - Chinese Restaurant Python解答例"
 emoji: "🍜"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["競技プログラミング", "競プロ", "cpp", "AtCoder"]
+topics: ["競技プログラミング", "競プロ", "python", "AtCoder"]
 published: true
 ---
 
